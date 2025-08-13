@@ -1,5 +1,3 @@
-Here’s the **full README.md text** ready to copy and paste into your project:
-
 ````markdown
 # Wildfire Watch (Greece)
 
