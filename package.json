@@ -1,0 +1,22 @@
+{
+  "name": "vite-vue-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "leaflet": "^1.9.4",
+    "vue": "^3.4.38",
+    "vue3-leaflet": "^1.0.50",
+    "vuetify": "^3.9.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.3",
+    "vite": "^5.4.2"
+  }
+}
